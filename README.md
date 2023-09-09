@@ -4,14 +4,13 @@
 </div>
 
 ### Loading data... 🌙
-![](https://komarev.com/ghpvc/?username=LinC3e&color=blueviolet)
 <br>
 <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2>
   <div align="center">
 <img src="https://i.imgur.com/ypmZJ3K.gif[/img" align="right" width="373px" height="208px">
   </div>
 <br>
-<p align="center">- Just write to me.</p>
+<p align="center">- Just write me.</p>
 <p align="center"> 
     <img src="https://img.shields.io/badge/LinC3e%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord-username"/>
 
