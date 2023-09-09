@@ -4,6 +4,7 @@
 </div>
 
 ### Loading data... 🌙
+![](https://komarev.com/ghpvc/?username=LinC3e&color=blueviolet)
 <br>
 <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 </h2>
   <div align="center">
