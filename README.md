@@ -14,7 +14,7 @@
 <p align="center"> 
     <img src="https://img.shields.io/badge/LinC3e%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord-username"/>
 
-  <a href="mailto:ivancostillaml@gmail.com">
+  <a href="mailto:linc3e.dev@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20via%20Email-%23D14836?style=for-the-badge" alt="Email" />
   </a>
 </p>
