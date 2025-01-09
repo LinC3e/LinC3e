@@ -5,12 +5,12 @@
 </div>
 
 ---
-
+<!-- 
 <div align="center">
 <img src="https://i.imgur.com/ypmZJ3K.gif" alt="Coding GIF" style="max-width: 350px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 
 </div>
-
+-->
 <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
 
 <p align="center">📫 Feel free to reach out, I'd love to connect!</p>
